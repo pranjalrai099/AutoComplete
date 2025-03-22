@@ -35,12 +35,21 @@ Dependencies
 
 Structure
 root/
+
 │── src/
+
 │   │── components/
+
 │   │   │── Autocomplete1.jsx  # Uses API v1
+
 │   │   │── Autocomplete2.jsx  # Uses API v2
+
 │   │   │── Autocomplete3.jsx  # Uses API v3
+
 │   │── App.jsx  # Main application file with routing to each component
+
 │── public/
+
 │── package.json
+
 │── README.md
